@@ -1,0 +1,12 @@
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-image: url("img/ivan-torres-MQUqbmszGGM-unsplash.jpg");
+    height:500;width:100%;
+    background-size: cover;
+}
+nav li{background-color:#EEB41F 
+display: :inline-block;
+float:right
+color: white;text-decoration: none;}
